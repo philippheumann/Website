@@ -1,0 +1,22 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Philipp Heumann"
+theme = "hugo-rocinante"
+paginate = 3
+summaryLength = 0
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+    tabWidth = 2
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[author]
+  name = "Philipp Heumann"
+
+[params]
+  mainSections = ["post", "photos"]
+  email = "heumann@pm.me"
+  favicon = "/icon/icon.JPG"
+  about = "Hi, I'm **Philipp**. I am a MSc student in Epidemiology at Johannes Gutenberg-University Mainz. <br> You can also find me on [Twitter](https://twitter.com/HeumannPhilipp). <br><br> _This website is currently under construction._"
