@@ -1,3 +1,2 @@
 https://heumann.netlify.app/* https://philipp.rbind.io/:splat 301!
 http://heumann.netlify.app/* https://philipp.rbind.io/:splat 301!
-http://philipp.rbind.io/* https://philipp.rbind.io/:splat 301!
