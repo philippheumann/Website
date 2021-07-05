@@ -18,8 +18,8 @@ summaryLength = 0
 [params]
   mainSections = ["post", "photos"]
   email = "heumann@pm.me"
-  favicon = "/icon/new_icon.JPG"
-  about = "Hi, I'm **Philipp**. I am a MSc student in Epidemiology at Johannes Gutenberg University Mainz. <br> You can also find me on [Twitter](https://twitter.com/HeumannPhilipp)."
+  favicon = "/icon/icon_new.PNG"
+  about = "Hi, I'm **Philipp**. I am a MSc student in Epidemiology at Johannes Gutenberg University Mainz."
 
 [[params.links]]
     [[params.links.link]]
