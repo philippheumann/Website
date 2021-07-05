@@ -20,3 +20,18 @@ summaryLength = 0
   email = "heumann@pm.me"
   favicon = "/icon/new_icon.JPG"
   about = "Hi, I'm **Philipp**. I am a MSc student in Epidemiology at Johannes Gutenberg University Mainz. <br> You can also find me on [Twitter](https://twitter.com/HeumannPhilipp)."
+
+[[params.links]]
+    [[params.links.link]]
+      name = "Email"
+      href = "/contact"
+      smart_email_link = true
+  [[params.links]]
+    [[params.links.link]]
+      name = "Github"
+      href = "https://github.com/philippheumann"
+      new_tab = true
+    [[params.links.link]]
+      name = "Twitter"
+      href = "https://twitter.com/HeumannPhilipp"
+      new_tab = true
